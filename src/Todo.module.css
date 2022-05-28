@@ -1,0 +1,7 @@
+.todo{
+    display: flex;
+}
+.todoList{
+    align-items: center;
+    margin-left:40%;
+}
